@@ -1,0 +1,6 @@
+Jute是Zookeeper中的序列化组件，最初也是Hadoop中的默认序列化组件，前身就是Hadoop Record IO，后来由于Apache Avro具有更好的跨语言性，丰富的数据结构和对MapReduce的支持，并且能够方便的用于RPC调用；因此Hadoop废弃了Record IO，开始使用Avro，并且将Record IO剥离出来，成为了一个独立的序列化组件，重新命名为Jute。
+
+Zookeeper从最早的版本开始就一直使用Jute作为序列化工具，直到现在最新的版本zookeeper-3.4.9依然使用Jute；至于为什么没有换成性能更好，通用性更强的如：Apache Avro，Thrift，Protobuf等序列化组件，主要还是由于考虑到新老版本序列化组件的兼容性，另一方面Jute并没有成为Zookeeper的瓶颈所在。
+
+
+
