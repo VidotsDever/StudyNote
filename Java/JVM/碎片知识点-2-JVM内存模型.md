@@ -2,13 +2,13 @@
 
 
 
-![](D:\笔记\assets\JDK-7-内存.png)
+![](D:\Github\StudyNote\assets\JDK-7-内存.png)
 
 #### JDK8内存模型
 
 
 
-![](D:\笔记\assets\JDK-8-内存.png)
+![](D:\Github\StudyNote\assets\JDK-8-内存.png)
 
 
 

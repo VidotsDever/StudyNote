@@ -24,7 +24,7 @@ Spark的每个模块，都有自己的抽象数据结构，GraphX的抽象是弹
 
 
 
-<img src="D:\笔记\大数据\asset\spark-graphx.png" style="zoom:67%;" />
+<img src="D:\Github\StudyNote\大数据\asset\spark-graphx.png" style="zoom:67%;" />
 
 
 

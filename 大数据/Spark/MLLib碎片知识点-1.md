@@ -82,7 +82,6 @@ val sparse = Matrices.sparse(3, 2, Array(0, 1, 3), Array(0, 2, 1), Array(9, 6, 8
 
 分块矩阵：BlockMatrix
 
-
 ```
 
 
